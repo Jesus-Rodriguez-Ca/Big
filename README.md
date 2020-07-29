@@ -11,6 +11,7 @@ To open this project you just need a browser. However,if you want to edit it jus
 * HTML5
 * CSS3
 * JavaScript
+* PHP
 
 1. CSS and HTML validator links
 1. CSS validates
